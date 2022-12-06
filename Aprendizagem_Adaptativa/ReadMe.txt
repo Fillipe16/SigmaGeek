@@ -1,0 +1,1 @@
+Esse projeto foi um desafio proposto pela QConcursos para a predição se um aluno da plataforma iria acertar uma questão. A competição foi porposta na plataforma SigmaGeek, disponivel no link: https://sigmageek.com/challenge_results/1659401106436x437495826561630200
